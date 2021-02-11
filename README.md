@@ -1,6 +1,6 @@
 Projeto com objetivo de relembrar e estudar JavaScript.
 
-<Passos para iniciar o projeto>
+< Passos para iniciar o projeto >
 
 1: git init
 2: npm init - para instalar pacotes e criar "package.json"
